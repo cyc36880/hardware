@@ -1,0 +1,19 @@
+/*
+ * Copyright (c) 2014-2021 Rtrobot. <admin@rtrobot.org>
+ *  <http://rtrobot.org>
+ ***********************************************************************
+ */
+1.Create folder for "build"
+2.cd to build
+3.cmake ..
+4.make
+5.cp to raspberrypi pico.
+
+
+SDA---GP4
+SCL---GP5
+
+SDI---GP19
+SCK---GP18
+CS---GP17
+SDO---GP16
